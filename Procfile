@@ -1,1 +1,1 @@
-web: python mamamia.py
+web: python script.py
